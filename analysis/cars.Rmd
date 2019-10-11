@@ -1,0 +1,17 @@
+---
+title: "Analysis of cars data"
+author: "Peter Carbonetto"
+output: html_document
+---
+
+# Load data
+
+```{r load-data}
+data(cars)
+```
+
+# Summarize data
+
+```{r summarize-data}
+summary(cars)
+```
